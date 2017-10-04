@@ -2,7 +2,8 @@
 title: "Regression Models (Motor Trend Project)"
 author: "Nutan Sahoo"
 date: "21 September 2017"
-output: rmarkdown::github_document
+output: html_document:
+keep_md: true
   
 geometry: margin=1in
 ---
